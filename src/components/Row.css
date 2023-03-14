@@ -1,0 +1,35 @@
+.swiper-pagination-bullet {
+  width: 8px !important;
+  height: 8px !important;
+  background: #0d253f !important;
+  opacity: 0.8 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #01b4e4 !important;
+  opacity: 1 !important;
+}
+
+.swiper-button-prev {
+  left: 0 !important;
+  background: transparent !important;
+  color: #01b4e4 !important;
+  font-weight: 700;
+  opacity: 0;
+}
+
+.swiper-button-prev:hover {
+  opacity: 0.8;
+}
+
+.swiper-button-next {
+  right: 0 !important;
+  background: transparent !important;
+  color: #01b4e4 !important;
+  font-weight: 700;
+  opacity: 0;
+}
+
+.swiper-button-next:hover {
+  opacity: 0.8;
+}
