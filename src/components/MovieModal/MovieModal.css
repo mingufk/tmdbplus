@@ -37,21 +37,6 @@
   }
 }
 
-.modal-close {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  cursor: pointer;
-  font-size: 1.5rem;
-  font-weight: 600;
-  opacity: 0.5;
-  z-index: 100;
-}
-
-.modal-close:hover {
-  opacity: 1;
-}
-
 .modal__poster-img {
   width: 100%;
   height: auto;
